@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit>=1.40
+streamlit-webrtc>=0.60
+ultralytics>=8.3
+mediapipe>=0.10.30
+opencv-python
+numpy
+pandas
+scikit-learn
+joblib
+av
